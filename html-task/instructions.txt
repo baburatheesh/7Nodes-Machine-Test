@@ -1,0 +1,7 @@
+Instructions:
+Convert the PSD to HTML using Bootstrap. You are free to use the fonts contained in the folder as well. Please note below items :
+
+1. Shouldn't have any unwanted codes
+2. Code should be commented properly
+3. Should be done only using Bootstrap - use the latest version if possible
+4. You are free to use any effects/animations you like.
